@@ -1,3 +1,29 @@
+v 2.3.1 * 2019-07-30
+---
+* [WBI] Cabins support Air! and Stress!
+
+
+v 2.3.0 * 2019-06-08
+---
+* [WBI] Catchup with WBI decal revamp
+* [WBI] Balance pass:
+  * Reduced OmniConverter slots in Mk2 from 4 to 2.
+  * Slight reduction in OmniConverter capacities in Mk3, raised OmniWorks OmniStorage partial volume.
+* [USI] Life support module updates contributed by @ Kielm.
+
+
+v 2.2.2 * 2019-01-25
+---
+* [No-LS] Fixed Ore crusher input resource errors.
+* Fixed some processors appearing in Nuclear Propulsion tech node when they shouldn't. They should now appear in Stock Science Tech node or CTT's Hydroponics node.
+* Added in-game declarations for compatibility with WBI Play Mode.
+
+
+v 2.2.1 * 2019-01-02
+---
+* Added missing EVA science storage and Crew Report experiment to cabins.
+
+
 v2.2.0 * 2018-08-10
 ---
 * [SNX] Fixed exclusion problem where Default mode features still appear when Snacks mode active.
